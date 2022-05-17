@@ -14,9 +14,7 @@ public class A_10_LargestNoFromArray {
 			if(i>=max) {
 				max=i;
 			}
-			
 		}
 		System.out.println("\nmax number is: "+max);
 	}
-
 }
